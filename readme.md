@@ -59,7 +59,7 @@ Skip the above commands if you have already updated the system and installed the
 Connect again to your server after reboot
 ```bash
   sudo -i
-  git clone https://github.com/G8-chain/G8-chaincoin-Core.git
+  git clone https://github.com/hide001/G8-chain.git
   cd G8-chain
   ./node-setup.sh --validator 1
 ```
